@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:u9lRMCdNXcB5/WQTZVMvGhNliW2pKOzj3SOVbu9yPpg="
+      ],
+      "url": "terraform-provider-kubernetes_2.24.0_linux_amd64.zip"
+    }
+  }
+}

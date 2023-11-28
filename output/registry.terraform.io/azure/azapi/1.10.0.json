@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:JXNumHk07LrO7293SgFLxJwLv68hR539P8OzNTHrdu0="
+      ],
+      "url": "terraform-provider-azapi_1.10.0_linux_amd64.zip"
+    }
+  }
+}
