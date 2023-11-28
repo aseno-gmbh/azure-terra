@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:gLFn+RvP37sVzp9qnFCwngRjjFV649r6apjxvJ1E/SE="
+      ],
+      "url": "terraform-provider-kubectl_1.14.0_linux_amd64.zip"
+    }
+  }
+}
