@@ -9,9 +9,16 @@ terraform {
     }
     helm = {
       source  = "hashicorp/helm"
-      version = "~> 2.7.0"
+      version = ">= 2.12.0"
     }
-
+    azuread = {
+      source  = "hashicorp/azuread"
+      version = ">= 2.46.0"
+    }
+    vault = {
+      source  = "hashicorp/vault"
+      version = ">= 3.23.0"
+    }
     kubernetes = {
       source  = "hashicorp/kubernetes"
       version = "~> 2.15.0"
@@ -20,6 +27,7 @@ terraform {
       source  = "gavinbunney/kubectl"
       version = ">= 1.14"
     }
+    
     # curl = {
     #   source  = "anschoewe/curl"
     #   version = "1.0.2"

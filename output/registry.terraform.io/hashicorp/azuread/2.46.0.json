@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:8cUf14zX4TJTPQAhE9c1oW0k4v+pdx3QLlsNLXivorw="
+      ],
+      "url": "terraform-provider-azuread_2.46.0_linux_amd64.zip"
+    }
+  }
+}
